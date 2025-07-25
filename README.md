@@ -53,11 +53,4 @@ The app uses a simple SQLite database with a single `transactions` table:
 
 ## 🚀 Deployment
 
-This project runs on a local server using a **Raspberry Pi**. However, it can be easily deployed to cloud platforms like **Heroku**, **AWS**, or **Render** for broader accessibility.
-
-To run locally:
-```bash
-git clone https://github.com/your-username/personal-finance-manager.git
-cd personal-finance-manager
-pip install -r requirements.txt
-python app.py
+This project runs on a local server using a **Raspberry Pi**. 
